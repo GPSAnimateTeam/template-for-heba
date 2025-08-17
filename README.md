@@ -6,31 +6,35 @@ Here you will find the basic guidelines for how the team should work consistentl
 
 ---
 
+## Heba changess
+
+## Heba changess 222
+
 ## 🚀 Getting Started
+
 1. Clone the repository:
 
    git clone https://github.com/GPSAnimateTeam/animate-project-template
-
 
 2. Create a **new branch** with your name or the task name:
 
    git checkout -b feature-task-name
 
    Example: `feature-geography-grade4-map`
+
 3. Commit and push your work regularly:
 
    git add .
    git commit -m "describe what you changed"
    git push origin feature-task-name
 
-
 ---
 
 ## 🔄 Workflow
 
-* Nobody should work directly on the `main` branch.
-* All changes must go to a **new branch**.
-* When finished, open a **Pull Request (PR)**:
+- Nobody should work directly on the `main` branch.
+- All changes must go to a **new branch**.
+- When finished, open a **Pull Request (PR)**:
 
   1. On GitHub → click **New Pull Request**.
   2. Select your branch → `main`.
@@ -41,22 +45,21 @@ Here you will find the basic guidelines for how the team should work consistentl
 
 ## ✅ Branch Naming
 
-* **feature-task-name** → for new features.
-* **fix-task-name** → for bug fixes.
-
+- **feature-task-name** → for new features.
+- **fix-task-name** → for bug fixes.
 
 Examples:
 
-* `feature-english-grade5-game`
-* `fix-science-grade1-audio-sync`
+- `feature-english-grade5-game`
+- `fix-science-grade1-audio-sync`
 
 ---
 
 ## 📌 Task Management
 
-* Tasks are tracked in the **Projects board** or **Issues**.
-* Each member works only on their assigned task.
-* After finishing, create a PR and link it to the related task.
+- Tasks are tracked in the **Projects board** or **Issues**.
+- Each member works only on their assigned task.
+- After finishing, create a PR and link it to the related task.
 
 ---
 
@@ -72,37 +75,37 @@ We use a simplified **Conventional Commits** format:
 
 ### Types:
 
-* **feat** → for a new feature
+- **feat** → for a new feature
 
   ```
   feat: add grade 4 geography animation screen
   ```
 
-* **fix** → for a bug fix
+- **fix** → for a bug fix
 
   ```
   fix: correct audio sync in science grade 1
   ```
 
-* **docs** → for documentation changes (like README)
+- **docs** → for documentation changes (like README)
 
   ```
   docs: update setup instructions in README
   ```
 
-* **style** → for code style/formatting changes (no logic impact)
+- **style** → for code style/formatting changes (no logic impact)
 
   ```
   style: reformat timeline labels in animation file
   ```
 
-* **refactor** → for code restructuring without changing behavior
+- **refactor** → for code restructuring without changing behavior
 
   ```
   refactor: simplify scene loading logic
   ```
 
-* **chore** → for maintenance or configuration (gitignore, CI/CD, etc.)
+- **chore** → for maintenance or configuration (gitignore, CI/CD, etc.)
 
   ```
   chore: update gitignore to exclude cache files
@@ -110,17 +113,19 @@ We use a simplified **Conventional Commits** format:
 
 ### Tips:
 
-* Keep it short (50–72 characters).
-* If more details are needed, add them in a new line after the short description.
-* Messages can be in English or simple wording, as long as they are clear.
+- Keep it short (50–72 characters).
+- If more details are needed, add them in a new line after the short description.
+- Messages can be in English or simple wording, as long as they are clear.
 
 ---
 
 ## 🎯 Goal
 
-* All code and assets are documented in GitHub.
-* No work is lost or duplicated.
-* Team collaboration is consistent and transparent.
+- All code and assets are documented in GitHub.
+- No work is lost or duplicated.
+- Team collaboration is consistent and transparent.
 
 ```
+
 ```
+````
